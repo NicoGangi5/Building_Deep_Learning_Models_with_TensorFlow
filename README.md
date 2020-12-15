@@ -1,4 +1,4 @@
-# Building_Deep_Learning_Models_with_TensorFlow
+# Building Deep Learning Models with TensorFlow
 
 By IBM on Coursera
 
