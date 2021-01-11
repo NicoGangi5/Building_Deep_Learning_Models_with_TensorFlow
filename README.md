@@ -2,7 +2,7 @@
 
 By IBM on Coursera
 
-###About this Course
+### About this Course
 
 The majority of data in the world is unlabeled and unstructured. Shallow neural networks cannot easily capture relevant structure in, for instance, images, sound, and textual data. Deep networks are capable of discovering hidden structures within this type of data. In this course you’ll use TensorFlow library to apply deep learning to different data types in order to solve real world problems.
 
